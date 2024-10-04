@@ -32,6 +32,7 @@ require("lazy").setup({
     { import = "plugins.lualine" },
     { import = "plugins.lsp-config" },
     { import = "plugins.none-ls" },
+    { import = "plugins.alpha" },
   },
   -- Configure any other settings here. See the documentation for more details.
   -- colorscheme that will be used when installing plugins.
