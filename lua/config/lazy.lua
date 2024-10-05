@@ -34,6 +34,7 @@ require("lazy").setup({
     { import = "plugins.none-ls" },
     { import = "plugins.alpha" },
     { import = "plugins.completions" },
+    { import = "plugins.command-autocomplete" }
   },
   -- Configure any other settings here. See the documentation for more details.
   -- colorscheme that will be used when installing plugins.
