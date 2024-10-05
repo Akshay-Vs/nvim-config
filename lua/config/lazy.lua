@@ -37,7 +37,8 @@ require("lazy").setup({
 		{ import = "plugins.command-autocomplete" },
 		{ import = "plugins.supermaven" },
 		{ import = "plugins.barbar" },
-	},
+    { import = "plugins.harpoon" },
+  },
 
 	install = { colorscheme = { "habamax" } },
 	-- automatically check for plugin updates
